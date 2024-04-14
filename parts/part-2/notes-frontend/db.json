@@ -1,0 +1,74 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "Study for math exam on Friday",
+      "important": false
+    },
+    {
+      "id": "2",
+      "content": "Buy groceries: milk, bread, eggs",
+      "important": true
+    },
+    {
+      "id": "3",
+      "content": "Call mom to wish her a happy birthday",
+      "important": false
+    },
+    {
+      "id": "4",
+      "content": "Finish coding project for work",
+      "important": false
+    },
+    {
+      "id": "5",
+      "content": "Schedule dentist appointment",
+      "important": false
+    },
+    {
+      "id": "6",
+      "content": "Research vacation destinations",
+      "important": true
+    },
+    {
+      "id": "7",
+      "content": "Pay electricity bill",
+      "important": false
+    },
+    {
+      "id": "8",
+      "content": "Attend gym session at 6 PM",
+      "important": false
+    },
+    {
+      "id": "9",
+      "content": "Read a chapter of '1984' before bed",
+      "important": false
+    },
+    {
+      "id": "10",
+      "content": "Water the plants",
+      "important": false
+    },
+    {
+      "id": "a1be",
+      "content": "hola mundo",
+      "important": true
+    },
+    {
+      "id": "4791",
+      "content": "hola mundo",
+      "important": true
+    },
+    {
+      "id": "dec9",
+      "content": "Esto es otra nota",
+      "important": true
+    },
+    {
+      "id": "05e5",
+      "content": "alo?",
+      "important": true
+    }
+  ]
+}
