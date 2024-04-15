@@ -19,6 +19,12 @@ const App = () => {
 
   const addNote = (event) => {
     event.preventDefault()
+
+    if (newNote.trim() === '') {
+      alert('Por favor, ingresa el contenido de la nota.')
+      return // Evitar que se envíe el formulario si el campo está vacío
+    }
+
     const noteObject = {
       content: newNote,
       important: Math.random() > 0.5,
